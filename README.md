@@ -1,2 +1,2 @@
 # states-game
-A platform to scratch off countries you have visited 
+A platform to scratch off states you have visited 
